@@ -1,7 +1,3 @@
-using System.Reflection;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
-
 [assembly: AssemblyTitle("Tyuiu.VorobevAD.Sprint0.Task2.V0.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
