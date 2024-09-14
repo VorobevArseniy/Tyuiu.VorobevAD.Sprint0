@@ -39,9 +39,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{3CAB77E0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.VorobevAD.Sprint0.Task5.V0", "Tyuiu.VorobevAD.Sprint0.Task5.V0\Tyuiu.VorobevAD.Sprint0.Task5.V0.csproj", "{881DBB90-3487-4993-97FE-7CF216EF9229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task5.V0.Test", "Tyuiu.VorobevAD.Sprint0.Task5.V0.Test\Tyuiu.VorobevAD.Sprint0.Task5.V0.Test.csproj", "{D3CB2ABF-2E40-496B-A838-43CDABB2F0C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.VorobevAD.Sprint0.Task5.V0.Test", "Tyuiu.VorobevAD.Sprint0.Task5.V0.Test\Tyuiu.VorobevAD.Sprint0.Task5.V0.Test.csproj", "{D3CB2ABF-2E40-496B-A838-43CDABB2F0C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task5.V0.Lib", "Tyuiu.VorobevAD.Sprint0.Task5.V0.Lib\Tyuiu.VorobevAD.Sprint0.Task5.V0.Lib.csproj", "{71FAF058-F880-4955-A3A0-2A06865EA544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.VorobevAD.Sprint0.Task5.V0.Lib", "Tyuiu.VorobevAD.Sprint0.Task5.V0.Lib\Tyuiu.VorobevAD.Sprint0.Task5.V0.Lib.csproj", "{71FAF058-F880-4955-A3A0-2A06865EA544}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{1587D025-08D1-46C8-8602-EF11C82104AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task6.V0", "Tyuiu.VorobevAD.Sprint0.Task6.V0\Tyuiu.VorobevAD.Sprint0.Task6.V0.csproj", "{FAD334E7-DAEB-4C5A-A31E-90EC73F7FCF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task6.V0.Lib", "Tyuiu.VorobevAD.Sprint0.Task6.V0.Lib\Tyuiu.VorobevAD.Sprint0.Task6.V0.Lib.csproj", "{15FD9685-D1B6-4F19-9A49-CD17F5BF8619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task6.V0.Test", "Tyuiu.VorobevAD.Sprint0.Task6.V0.Test\Tyuiu.VorobevAD.Sprint0.Task6.V0.Test.csproj", "{19D21E3E-BC79-4C7F-8D24-928DF6ACA15E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,18 @@ Global
 		{71FAF058-F880-4955-A3A0-2A06865EA544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71FAF058-F880-4955-A3A0-2A06865EA544}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71FAF058-F880-4955-A3A0-2A06865EA544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD334E7-DAEB-4C5A-A31E-90EC73F7FCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD334E7-DAEB-4C5A-A31E-90EC73F7FCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD334E7-DAEB-4C5A-A31E-90EC73F7FCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD334E7-DAEB-4C5A-A31E-90EC73F7FCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FD9685-D1B6-4F19-9A49-CD17F5BF8619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FD9685-D1B6-4F19-9A49-CD17F5BF8619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FD9685-D1B6-4F19-9A49-CD17F5BF8619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FD9685-D1B6-4F19-9A49-CD17F5BF8619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D21E3E-BC79-4C7F-8D24-928DF6ACA15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D21E3E-BC79-4C7F-8D24-928DF6ACA15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D21E3E-BC79-4C7F-8D24-928DF6ACA15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D21E3E-BC79-4C7F-8D24-928DF6ACA15E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,6 +144,9 @@ Global
 		{881DBB90-3487-4993-97FE-7CF216EF9229} = {3CAB77E0-C886-4935-A459-7F4E794F6DA4}
 		{D3CB2ABF-2E40-496B-A838-43CDABB2F0C7} = {3CAB77E0-C886-4935-A459-7F4E794F6DA4}
 		{71FAF058-F880-4955-A3A0-2A06865EA544} = {3CAB77E0-C886-4935-A459-7F4E794F6DA4}
+		{FAD334E7-DAEB-4C5A-A31E-90EC73F7FCF8} = {1587D025-08D1-46C8-8602-EF11C82104AE}
+		{15FD9685-D1B6-4F19-9A49-CD17F5BF8619} = {1587D025-08D1-46C8-8602-EF11C82104AE}
+		{19D21E3E-BC79-4C7F-8D24-928DF6ACA15E} = {1587D025-08D1-46C8-8602-EF11C82104AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D9FE11D-C344-4646-A7CD-BFB6BB961BD7}
